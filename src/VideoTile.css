@@ -1,0 +1,14 @@
+.video-tile {
+    background: #eaeaea;
+    border-radius: 1px;
+    box-shadow: 4px 4px 5px;
+    display: inline-block;
+    margin: 20px;
+    padding: 5px 5px 2px 5px;
+}
+
+.remove-button {
+    margin-bottom: 5px;
+    background: inherit;
+    border: none;
+}
